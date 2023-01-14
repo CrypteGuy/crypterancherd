@@ -32,7 +32,7 @@ replace (
 
 require (
 	github.com/google/certificate-transparency-go v1.1.2
-	github.com/google/go-attestation v0.3.2
+	github.com/google/go-attestation v0.4.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/go-discover v0.0.0-20201029210230-738cb3105cd0
 	github.com/pkg/errors v0.9.1
